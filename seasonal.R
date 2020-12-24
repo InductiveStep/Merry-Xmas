@@ -38,8 +38,6 @@ C,523.26")
 #######################################################################
 # A tune, extracted and transformed from
 # https://github.com/tomds/Arduino-Tunes/blob/master/arduino_tunes.pde
-# There it's written as
-#   d4g4g2a2g2f#2e4c4e4a4a2b2a2g2f#4d4f#4b4b2C2b2a2g4e4d2d2e4a4f#4g8,8.
 #######################################################################
 
 theTune <- read.csv(text = "Note,Crotchets
